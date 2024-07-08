@@ -10,6 +10,10 @@ defineProps({
 });
 
 const languages = reactive([
+     {
+        name: 'Burmese',
+        value: 100,
+    },
     {
         name: 'Korea',
         value: 70,
