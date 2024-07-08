@@ -24,6 +24,13 @@ const data = reactive([
         href: 'https://t.me/nwayzin_01',
         target: '_blank',
     },
+     {
+        icon: 'mdi-message-text',
+        title: 'Facebook',
+        value: '@Nway Zin Win',
+        href: 'https://www.facebook.com/profile.php?id=100083217218417',
+        target: '_blank',
+    },
     {
         icon: 'mdi-gmail',
         title: 'Gmail',
