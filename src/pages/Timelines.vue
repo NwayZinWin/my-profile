@@ -19,7 +19,7 @@ const timelines = reactive([
         id: 1,
         icon: 'mdi-briefcase-variant',
         color: 'amber darken-1',
-        title: 'FluidWeb',
+        title: 'Naung Yoe',
         position: 'Trainee',
         period: 'JUN — AUG 2021',
         description: 'Building landing pages and E2E testing with Cypress.js',

@@ -69,7 +69,7 @@ const skills = reactive({
         {
             id: 6,
             option: 2,
-            name: 'Nuxt.js',
+            name: 'JAVASCRIPT',
             experience: '3 months',
         },
         {
@@ -112,7 +112,7 @@ const skills = reactive({
         {
             id: 14,
             option: 4,
-            name: 'Firebase',
+            name: 'Microsoft SQL',
             experience: '6 months',
         },
         {
