@@ -23,8 +23,8 @@ const profile = reactive({
         <div class="profile">
             <div class="profile__image">
                 <v-avatar :size="smAndDown ? 200 : 300"  >
-                    <!-- <v-img src="https://kpopping.com/documents/fe/5/800/ZEROBASEONE-Kim-Gyuvin-In-Bloom-MV-Photoshoot-by-Dispatch-documents-1.jpeg?v=774d9" lazy-src="gyuvin.jpg" alt="Profile avatar" title="Profile avatar"></v-img> -->
-                </v-avatar>
+                     <v-img src="@/assets/gyuvin.jpg" alt="Profile avatar" title="Profile avatar"></v-img>
+               </v-avatar>
             </div>
             <div class="profile__text">
                 <h1
