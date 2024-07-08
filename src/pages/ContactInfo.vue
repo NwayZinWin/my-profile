@@ -13,21 +13,21 @@ const data = reactive([
     {
         icon: 'mdi-cellphone-sound',
         title: 'Phone',
-        value: '+ 380 (63) 872 09 90',
+        value: '+ 959 671680754',
         href: 'tel:+380638720990',
         target: null,
     },
     {
         icon: 'mdi-message-text',
         title: 'Telegram',
-        value: '@fordiquez',
+        value: '@nwayzin_01',
         href: 'https://t.me/fordiquez',
         target: '_blank',
     },
     {
         icon: 'mdi-gmail',
         title: 'Gmail',
-        value: 'ruslan.tsiapko@gmail.com',
+        value: 'nwayzinwin30@gmail.com',
         href: 'mailto:ruslan.tsiapko@gmail.com',
         target: null,
     },
@@ -38,13 +38,7 @@ const data = reactive([
         href: 'https://github.com/fordiquez',
         target: '_blank',
     },
-    {
-        icon: 'mdi-linkedin',
-        title: 'LinkedIn',
-        value: 'ruslan.tsiapko',
-        href: 'https://www.linkedin.com/in/ruslan-tsiapko-a41397241/',
-        target: '_blank',
-    },
+   
 ]);
 </script>
 
