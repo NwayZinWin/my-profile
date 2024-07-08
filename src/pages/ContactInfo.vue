@@ -21,7 +21,7 @@ const data = reactive([
         icon: 'mdi-message-text',
         title: 'Telegram',
         value: '@nwayzin_01',
-        href: 'https://t.me/nwayzin',
+        href: 'https://t.me/nwayzin_01',
         target: '_blank',
     },
     {
